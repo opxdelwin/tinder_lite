@@ -4,7 +4,7 @@ import 'package:tinderlitegg/discover_home.dart';
 
 import 'matched.dart';
 
-// https://dribbble.com/shots/20671356-Dating-Mobile-Design-App
+// design link: https://dribbble.com/shots/20671356-Dating-Mobile-Design-App
 
 void main() {
   runApp(MaterialApp.router(

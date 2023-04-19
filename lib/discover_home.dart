@@ -2,8 +2,6 @@ import 'package:cupertino_notification_bar_ui/cupertino_notification_bar_ui.dart
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import 'matched.dart';
-
 class DiscoverHome extends StatelessWidget {
   const DiscoverHome({super.key});
 
@@ -146,7 +144,7 @@ class _PageBodyState extends State<PageBody> {
                   mainAxisAlignment: MainAxisAlignment.end,
                   children: [
                     const Text(
-                      "Samantha Deezhuts",
+                      "Samantha",
                       style: TextStyle(
                           fontSize: 24,
                           color: Colors.white,
