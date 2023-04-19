@@ -1,16 +1,16 @@
 # tinder_lite
+A new personal Flutter project. Found [this](https://dribbble.com/shots/20671356-Dating-Mobile-Design-App) amazing design on dribble which I wanted to work on and replicate. Below find attached app images. No server and hosting has been configured as this isn't a full fledged project, but a pastime.
 
-A new Flutter project.
+I have applied some animations and transitions for better user experience. 
 
-## Getting Started
+Feel free to fork and contribute if you find this project interesting! :)
+## Reference Images
 
-This project is a starting point for a Flutter application.
+#### Home (or discover page)
+![image](https://user-images.githubusercontent.com/84124091/233143522-0b2f3dcf-7f03-4248-9d63-9fa5c4bdd632.png)
 
-A few resources to get you started if this is your first Flutter project:
+*you can slide off, just as tinder*
+![image](https://user-images.githubusercontent.com/84124091/233144024-5eff495f-0cb9-4eeb-beb6-c986bce82a1e.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Matching page
+![image](https://user-images.githubusercontent.com/84124091/233143737-d1a3c47c-c652-4145-97d6-4ea755ae0c4d.png)
